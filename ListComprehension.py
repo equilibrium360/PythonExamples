@@ -13,6 +13,7 @@ print(square)
 
 
 """Conditionaly pick elements in list
+    1. Also we can use functions 
 """
 
 def minus1(nm):
