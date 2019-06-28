@@ -1,0 +1,39 @@
+dev:
+  cscs_db:
+    driver: simple text
+    server:
+    database: 
+    uid:
+    pwd:
+  mle_db:
+    driver: simple text
+    server:
+    database: 
+    uid:
+    pwd:    
+uat:
+  cscs_db:
+    driver: simple text
+    server:
+    database: 
+    uid:
+    pwd:
+  mle_db:
+    driver: simple text
+    server:
+    database: 
+    uid:
+    pwd:
+prod:
+  cscs_db:
+    driver: simple text
+    server:
+    database: 
+    uid:
+    pwd:
+  mle_db:
+    driver: simple text
+    server:
+    database: 
+    uid:
+    pwd:
